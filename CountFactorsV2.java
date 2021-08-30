@@ -21,3 +21,5 @@ class Solution {
         return cntFactor;
     }
 }
+
+// second attempt 100%
